@@ -21,5 +21,4 @@ $ npm install
 # For run the application
 $ npm start
 
-
 ```
